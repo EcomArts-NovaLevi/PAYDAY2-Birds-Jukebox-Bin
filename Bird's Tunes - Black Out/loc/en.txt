@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_black_out" : "Black Out",
+    "menu_jukebox_screen_black_out" : "Black Out"
+}

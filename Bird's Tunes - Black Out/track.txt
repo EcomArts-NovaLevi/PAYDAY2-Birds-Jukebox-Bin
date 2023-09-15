@@ -1,0 +1,24 @@
+{
+    "id": "custom_ost_black_out_infil",
+    "volume": 0.7,
+    "name": "Black Out",
+    "fade_duration": 0.1,
+    "events": {
+        "setup": {
+            "file": "setup.ogg",
+
+            "volume": 0.5
+        },
+        "control" : {
+            "start_file": "control_start.ogg",
+            "file": "control_loop.ogg"
+        },
+        "buildup": {
+            "file": "buildup.ogg"
+        },
+        "assault" : {
+            "start_file": "assault_start.ogg",
+            "file": "assault_loop.ogg"
+        }
+    }
+}
