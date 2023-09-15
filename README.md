@@ -7,4 +7,4 @@ as it requires the integrated BeardLib Music Manager to see custom heist/menu tr
 Included additionally are unreleased heist tracks such as Code Silver (Chaos) and a subfolder of heist track mixes that's volume mixing was [awful] too loud compared to the in-game mixing.
 This folder includes volume and remixing for:
 Rainbowmaker's 8Bits Are Scary remix,
-VxWolf's Sonnenfinsternis (includes alt assault wave mix: original is from their Youtube, alt is from their Soundcloud).
+VxWolf's Sonnenfinsternis (includes 50/50 assault wave tracks: one version is from their Youtube, alt version is from their Soundcloud).
