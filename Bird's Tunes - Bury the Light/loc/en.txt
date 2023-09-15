@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_vergilmus" : "Bury the Light",
+    "menu_jukebox_screen_vergilmus" : "Bury the Light"
+}
