@@ -1,0 +1,9 @@
+<table name="RainbowMaker 8 Bits are Scary">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="eight_doom" directory="music/">
+        <event name="setup" source="setup.ogg"/>
+        <event name="anticipation" source="anticipation.ogg"/>
+        <event name="assault" source="assault.ogg"/>
+        <event name="control" source="control.ogg"/>
+    </HeistMusic>
+</table> 

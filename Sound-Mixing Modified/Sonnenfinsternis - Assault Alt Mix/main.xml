@@ -1,0 +1,64 @@
+<table name="Sonnenfinsternis">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="music_finsternis" directory="assets\music\finsternis" volume="0.7">
+        <event name="setup" source="stealth.ogg"/>
+        <event name="anticipation" start_source="anticipation.ogg" source="anticiloop.ogg"/>
+        <event name="assault" start_source="assaultintro.ogg" source="assault.ogg" alt_source="assault_alt.ogg" alt_chance="0.5"/>
+        <event name="control" start_source="controlintro.ogg" source="control.ogg"/>
+    </HeistMusic>
+    <!--Sonnenfinsternis by VxWolf-->
+    <!--Get Project Finsternis here! http://modwork.shop/23025-->
+    <!--
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdyso+/:--........--:/+osydmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdy+:-............................-:+ydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNho:--.....................................-:ohNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMds/-..............................................-/sdMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMms:-....................................................-:smMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNy/-..........................................................-/yNMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMNs:................................................................:sNMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMNs:....................................................................:sNMMMMMMMMMMMMM
+MMMMMMMMMMMNy:........................................................................:yNMMMMMMMMMMM
+MMMMMMMMMMd/............................................................................/dMMMMMMMMMM
+MMMMMMMMNs-..............................................................................-sNMMMMMMMM
+MMMMMMMm/................................................................................../mMMMMMMM
+MMMMMMd:....................................................................................:dMMMMMM
+MMMMMd-..................-:::-........................................-::::-.................-dMMMMM
+MMMMd-................-+hdmmdho:....................................-ohdmmdho-................-dMMMM
+MMMm-................/hmmmmmmmmd/..................................:dmmmmmmmmd+................-mMMM
+MMN:................/mmmmmmmmmmmm:................................-dmmmmmmmmmmm+................:NMM
+MMo................-dmmmmmmmmmmmmy................................ommmmmmmmmmmmm:................oMM
+Mm-................+mmmmmmmmmmmmmd................................ymmmmmmmmmmmmmo................-mM
+M+.................ommmmmmmmmmmmmd................................ymmmmmmmmmmmmmy.................+M
+m..................+mmmmmmmmmmmmmo........-:-..../o/....:/-.......+mmmmmmmmmmmmms..................m
+s..................-dmmmmmmmmmmmd-........dmd:..ommm+../mmh........ymmmmmmmmmmmm:..................s
+/.................../mmmmmmmmmmh-........./mmm/ommmmmo+mmd:........-ymmmmmmmmmm+.................../
+-....................:ymmmmmmd+-...........:dmmmmh-hmmmmd-...........+hmmmmmmy:....................-
+.......................-/+++:...............-dmmy-.-hmmh-..............-/++/-.......................
+.............................................-++....-++-............................................:shovel:
+....................................................................................................
+-..................................................................................................-
+/................................................................................................../
+s..................................................................................................s
+m..................................................................................................m
+M/................................................................................................+M
+Mm-..............................................................................................-mM
+MMo..............................................................................................oMM
+MMN:............................................................................................:NMM
+MMMm-..........................................................................................-mMMM
+MMMMd-........................................................................................-dMMMM
+MMMMMd-......................................................................................-dMMMMM
+MMMMMMd:....................................................................................:dMMMMMM
+MMMMMMMm/................................................................................../mMMMMMMM
+MMMMMMMMNs-..............................................................................-sNMMMMMMMM
+MMMMMMMMMMd/............................................................................/dMMMMMMMMMM
+MMMMMMMMMMMNy:........................................................................:yNMMMMMMMMMMM
+MMMMMMMMMMMMMNs-....................................................................-sNMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMNs:................................................................:sNMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNy/-..........................................................-/yNMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMms:-....................................................-:smMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMds/-..............................................-/sdMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNho:--....................................--:ohNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdy+:-............................-:+ydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdyso+/:--........--:/+osydmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    -->
+</table>

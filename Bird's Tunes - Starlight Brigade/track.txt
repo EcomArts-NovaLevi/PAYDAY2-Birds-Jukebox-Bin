@@ -1,0 +1,36 @@
+{
+    "id": "custom_ost_starlight_brigade",
+    "volume": 0.7,
+    "name": "Starlight Brigade",
+    "fade_duration": 0.1,
+    "events": {
+        "setup": {
+            "start_file": "setup_start.ogg",
+            "file": "setup_loop.ogg",
+
+            "volume": 0.5
+        },
+        "control" : {
+            "start_file": "control_start.ogg",
+            "file": "control_loop.ogg",
+
+	    "alt_start": "control_start.ogg",
+	    "alt": "alt_control_loop.ogg",
+	    "alt_chance": 0.5
+        },
+        "buildup": {
+            "file": "buildup.ogg",
+
+	    "alt": "alt_buildup.ogg",
+	    "alt_chance": 0.5
+        },
+        "assault" : {
+            "start_file": "assault_start.ogg",
+            "file": "assault_loop.ogg",
+
+            "alt_start": "alt_assault_start.ogg",
+            "alt": "alt_assault_loop.ogg",
+            "alt_chance": 0.5
+        }
+    }
+}

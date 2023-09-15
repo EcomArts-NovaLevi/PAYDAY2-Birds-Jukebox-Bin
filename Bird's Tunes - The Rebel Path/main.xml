@@ -1,0 +1,9 @@
+<table name="The Rebel Path (Cello Ver.)" directory="xd">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="the_rebel_path_c" directory="sounds">
+        <event name="setup" source="setup.ogg"/>
+        <event name="anticipation" source="buildup.ogg"/>
+        <event name="assault"  source="assault.ogg"/>
+        <event name="control"  source="control.ogg"/>
+    </HeistMusic>
+</table>

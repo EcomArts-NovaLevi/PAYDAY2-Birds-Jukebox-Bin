@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_music_finsternis" : "Sonnenfinsternis",
+    "menu_jukebox_screen_music_finsternis" : "Sonnenfinsternis"
+}

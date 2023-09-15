@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_eight_doom" : "RainbowMaker 8-Bits are scary"
+    "menu_jukebox_screen_8_doom" : "RainbowMaker 8-Bits are scary"
+}

@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_the_rebel_path_c" : "The Rebel Path (Cello Ver.)",
+    "menu_jukebox_screen_the_rebel_path_c" : "The Rebel Path (Cello Ver.)"
+}

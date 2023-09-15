@@ -1,0 +1,4 @@
+<table name="The War Still Rages Within">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="mgrr_credits" source="sounds/menu.ogg"/>
+</table>

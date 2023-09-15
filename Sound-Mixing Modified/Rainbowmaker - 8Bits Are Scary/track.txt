@@ -1,0 +1,22 @@
+{
+    "id": "custom_ost_eight_doom",
+    "volume": 0.4,
+    "name": "RainbowMaker 8-Bits are scary",
+    "fade_duration": 0.1,
+    "events": {
+        "setup": {
+            "file": "setup.ogg",
+
+            "volume": 0.5
+        },
+        "control" : {
+            "file": "control.ogg"
+        },
+        "buildup": {
+            "file": "anticipation.ogg"
+        },
+        "assault" : {
+            "file": "assault.ogg"
+        }
+    }
+}

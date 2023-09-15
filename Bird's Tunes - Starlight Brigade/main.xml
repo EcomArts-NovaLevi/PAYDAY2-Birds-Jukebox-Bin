@@ -1,0 +1,9 @@
+<table name="Starlight Brigade" directory="xd">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="starlight_brigade" directory="sounds">
+        <event name="setup" start_source="setup_start.ogg" source="setup_loop.ogg"/>
+        <event name="anticipation" source="buildup.ogg" alt_source="alt_buildup.ogg" alt_chance="0.5"/>
+        <event name="assault" start_source="assault_start.ogg" source="assault_loop.ogg" alt_start_source="alt_assault_start.ogg" alt_source="alt_assault_loop.ogg" alt_chance="0.5"/>
+        <event name="control" start_source="control_start.ogg" source="control_loop.ogg" alt_source="alt_control_loop.ogg" alt_chance="0.5"/>
+    </HeistMusic>
+</table>

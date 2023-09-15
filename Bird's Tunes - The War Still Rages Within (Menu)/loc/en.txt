@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_mgrr_credits" : "The War Still Rages Within",
+    "menu_jukebox_screen_mgrr_credits" : "The War Still Rages Within"
+}

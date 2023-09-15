@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_starlight_brigade" : "Starlight Brigade",
+    "menu_jukebox_screen_starlight_brigade" : "Starlight Brigade"
+}
