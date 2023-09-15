@@ -1,0 +1,9 @@
+<table name="Hot Pursuit 8Bit" directory="xd">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="hp8b" directory="sounds">
+        <event name="setup" source="setup.ogg"/>
+        <event name="anticipation" start_source="buildup_start.ogg" source="buildup.ogg"/>
+        <event name="assault" start_source="assault_start.ogg" source="assault_loop.ogg"/>
+        <event name="control" start_source="control_start.ogg" source="control_loop.ogg"/>
+    </HeistMusic>
+</table>

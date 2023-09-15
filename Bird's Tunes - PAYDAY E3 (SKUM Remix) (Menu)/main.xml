@@ -1,0 +1,4 @@
+<table name="Steal From the Rich, Give to Myself (SKUM Remix)">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="pd2e3skum" source="sounds/menu.ogg"/>
+</table>

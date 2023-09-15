@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_hp8b" : "Hot Pursuit 8Bit",
+    "menu_jukebox_screen_hp8b" : "Hot Pursuit 8Bit"
+}

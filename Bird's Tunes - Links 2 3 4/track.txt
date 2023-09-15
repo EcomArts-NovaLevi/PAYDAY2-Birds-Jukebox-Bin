@@ -1,0 +1,23 @@
+{
+    "id": "custom_ost_ants",
+    "volume": 0.7,
+    "name": "Links 2 3 4",
+    "fade_duration": 0.1,
+    "events": {
+        "setup": {
+            "file": "setup.ogg",
+
+            "volume": 0.6
+        },
+        "control" : {
+            "file": "control_loop.ogg"
+        },
+        "buildup": {
+            "file": "buildup.ogg"
+        },
+        "assault" : {
+            "start_file": "assault_start.ogg",
+            "file": "assault_loop.ogg"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+<table name="Links 2 3 4" directory="xd">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="ants" directory="sounds">
+        <event name="setup" source="setup.ogg"/>
+        <event name="anticipation" source="buildup.ogg"/>
+        <event name="assault" start_source="assault_start.ogg" source="assault_loop.ogg"/>
+        <event name="control" source="control_loop.ogg"/>
+    </HeistMusic>
+</table>

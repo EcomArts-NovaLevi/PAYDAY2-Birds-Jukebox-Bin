@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_mgrkhamsin" : "Hot Wind Blowing",
+    "menu_jukebox_screen_mgrkhamsin" : "Hot Wind Blowing"
+}

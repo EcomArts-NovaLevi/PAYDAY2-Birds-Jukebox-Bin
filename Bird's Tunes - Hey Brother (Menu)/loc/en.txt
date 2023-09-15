@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_avicii_hb" : "Hey Brother",
+    "menu_jukebox_screen_avicii_hb" : "Hey Brother"
+}

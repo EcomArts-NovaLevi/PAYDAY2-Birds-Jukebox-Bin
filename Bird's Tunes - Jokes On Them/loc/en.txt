@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_jokesthem" : "Jokes On Them",
+    "menu_jukebox_screen_jokesthem" : "Jokes On Them"
+}

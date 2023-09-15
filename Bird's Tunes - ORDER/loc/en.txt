@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_mnostheme" : "ORDER",
+    "menu_jukebox_screen_mnostheme" : "ORDER"
+}

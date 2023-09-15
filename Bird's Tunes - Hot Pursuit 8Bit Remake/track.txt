@@ -1,0 +1,25 @@
+{
+    "id": "custom_ost_hp8b",
+    "volume": 0.7,
+    "name": "Hot Pursuit 8Bit",
+    "fade_duration": 0.1,
+    "events": {
+        "setup": {
+            "file": "setup.ogg",
+
+            "volume": 0.6
+        },
+        "control" : {
+            "start_file": "control_start.ogg",
+            "file": "control_loop.ogg"
+        },
+        "buildup": {
+	    "start_file": "buildup_start.ogg"            
+	    "file": "buildup.ogg"
+        },
+        "assault" : {
+            "start_file": "assault_start.ogg",
+            "file": "assault_loop.ogg"
+        }
+    }
+}

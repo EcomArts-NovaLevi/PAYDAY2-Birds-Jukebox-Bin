@@ -1,0 +1,4 @@
+<table name="Stop">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="justice_stop" source="sounds/menu.ogg"/>
+</table>

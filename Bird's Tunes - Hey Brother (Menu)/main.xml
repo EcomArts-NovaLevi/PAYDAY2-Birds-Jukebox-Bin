@@ -1,0 +1,4 @@
+<table name="Hey Brother">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="avicii_hb" source="sounds/menu.ogg"/>
+</table>
