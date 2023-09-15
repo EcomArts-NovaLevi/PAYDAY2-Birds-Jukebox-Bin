@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_bad_apple" : "Bad Apple",
+    "menu_jukebox_screen_bad_apple" : "Bad Apple"
+}
