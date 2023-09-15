@@ -1,0 +1,4 @@
+<table name="Don't">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="neilcic_dont" source="sounds/menu.ogg"/>
+</table>

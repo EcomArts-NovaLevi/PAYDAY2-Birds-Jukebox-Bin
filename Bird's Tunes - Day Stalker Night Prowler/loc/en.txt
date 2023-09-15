@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_brut" : "Day Stalker/Night Prowler",
+    "menu_jukebox_screen_brut" : "Day Stalker/Night Prowler"
+}

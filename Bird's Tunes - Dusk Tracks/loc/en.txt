@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_dusk_medley" : "Dusk Medley",
+    "menu_jukebox_screen_dusk_medley" : "Dusk Medley"
+}

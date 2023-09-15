@@ -1,0 +1,9 @@
+<table name="Full Force Forward (Hypetrain Remix)" directory="xd">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="fffhype" directory="sounds">
+        <event name="setup" source="setup.ogg"/>
+        <event name="anticipation" source="buildup.ogg"/>
+        <event name="assault" source="assault_loop.ogg"/>
+        <event name="control" start_source="control_start.ogg" source="control_loop.ogg"/>
+    </HeistMusic>
+</table>

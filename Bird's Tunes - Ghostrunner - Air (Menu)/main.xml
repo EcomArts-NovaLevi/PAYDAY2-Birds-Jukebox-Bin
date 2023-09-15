@@ -1,0 +1,4 @@
+<table name="Air">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="ghostrunner_air" source="sounds/menu.ogg"/>
+</table>

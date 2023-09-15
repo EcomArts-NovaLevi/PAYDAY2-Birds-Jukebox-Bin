@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_fffhype" : "Full Force Forward (Hypetrain Remix)",
+    "menu_jukebox_screen_fffhype" : "Full Force Forward (Hypetrain Remix)"
+}
