@@ -1,0 +1,29 @@
+<table name="Breach of Security 2017" directory="xd">
+    <Localization directory="Loc" default="EN.txt"/>
+    <!-- id: Id of the music will be used as an id for your music and part of localization for the music name, 
+        source= path in game, 
+        menu= should the music play in menu?, 
+        heist= should the music play in heist(make sure to have events because heist songs are split up to events.
+        directory= [Optional] shortcut to the main directory that the sound files are located in. 
+     -->
+    <Music id="breachnosfx" directory="music/breachnosfx" source="assault" heist="true"> 
+        <!-- Those are the events that taken from the tweak data if overkill adds any new ones just add them from tweak_data.music
+            *names are not important! you can call your files however you like just make sure they are the same case.
+            source= the sound file that the event will play and loop.
+            start_source= [Optional] the sound file that the event should play before playing the default one that will be looping.
+        -->
+        <event name="setup" source="setup"/>
+        <event name="anticipation" source="anticipation"/>
+        <event name="assault" source="assault"/>
+        <event name="control" source="control"/>
+    </Music>
+    <!-- Add our music(movie) files-->
+    <AddFiles directory="Assets">
+        <movie path="music/breachnosfx/setup"/>
+        <movie path="music/breachnosfx/anticipation"/>
+        <movie path="music/breachnosfx/assault"/>
+        <movie path="music/breachnosfx/control"/>
+    </AddFiles>
+</table>
+
+ 
