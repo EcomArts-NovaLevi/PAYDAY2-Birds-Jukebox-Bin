@@ -1,4 +1,0 @@
-{
-    "menu_jukebox_ants" : "Links 2 3 4",
-    "menu_jukebox_screen_ants" : "Links 2 3 4"
-}
