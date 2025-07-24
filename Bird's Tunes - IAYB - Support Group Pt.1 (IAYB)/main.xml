@@ -1,0 +1,9 @@
+<table name="Campfire Infinity" directory="xd">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="rjlakesupport1" directory="sounds">
+        <event name="setup" source="setup.ogg"/>
+        <event name="anticipation" source="buildup.ogg"/>
+        <event name="assault" start_source="assault_start.ogg" source="assault_loop.ogg" alt_start_source="alt_assault_start.ogg" alt_source="alt_assault_loop.ogg" alt_chance="0.25"/>
+        <event name="control" source="control_loop.ogg"/>
+    </HeistMusic>
+</table>
