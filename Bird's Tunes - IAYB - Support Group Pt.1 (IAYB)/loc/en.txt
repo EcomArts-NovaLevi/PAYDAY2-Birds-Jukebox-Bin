@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_rjlakesupport1" : "Campfire Infinity",
+    "menu_jukebox_screen_rjlakesupport1" : "Campfire Infinity"
+}
